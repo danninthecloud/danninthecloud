@@ -1,5 +1,7 @@
 ## Hi there 👋
 I'm Danniel Aquino, a cleared mission-driven IT professional with 12+ years of experience in system administration, cloud operations, and cybersecurity—built on a foundation of service in the U.S. Navy. I've led high-impact data center projects, managed secure networks for 5,000+ users, and implemented enterprise-wide patching and compliance strategies across Windows and Linux environments. With certifications in Azure, AWS, and Linux+, and a degree in Cybersecurity, I'm passionate about delivering scalable and secure solutions that empower organizations. I’m interested in opportunities in cloud engineering or system administration where I can apply my leadership and technical skills to support modern infrastructure needs.
+
+Come along as I learn all things Cloud engineering and DevOps!
 <!--
 **danninthecloud/danninthecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
